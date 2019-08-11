@@ -1,6 +1,6 @@
 # aws-scaleable-wordpress-multisite
 
-![GitHub Logo]()
+![Architecture](https://raw.githubusercontent.com/awsbot-labs/aws-scalable-wordpress-multisite/master/Web%20App%20Reference%20Architecture.png)
 
 ## Description
 ### System Design:
