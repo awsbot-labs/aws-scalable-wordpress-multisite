@@ -1,5 +1,7 @@
 # aws-scaleable-wordpress-multisite
 
+![GitHub Logo]()
+
 ## Description
 ### System Design:
 - Scale-able Wordpress MultiSite Setup
@@ -88,5 +90,3 @@ Feel free to make recommendation/corrections, that are fast, secure and scale.
   - You haven't requested a database. RDS multi-az running postgres would be best.
   - Elasticbeanstalk is fast and has much of what you want off the bat.
 ```
-
-## Solution
